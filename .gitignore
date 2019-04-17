@@ -1,0 +1,6 @@
+# These files must never go into my repo.
+*.iml
+local.properties
+gradle.properties
+.idea/
+.gradle/
