@@ -32,17 +32,4 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent, RESULT_ID);
     }
 
-//    @Override
-//    protected  void onActivityResult(int requestCode, int resultCode, Intent data) {
-//        Log.i(TAG, "ActivityResult Run ");
-//        if (requestCode == RESULT_ID) {
-//            if (resultCode == RESULT_OK) {
-//                TextView label = (TextView)findViewById(R.id.message);
-//                String message = label.getText().toString();
-//                message += "\n\n" + data.getStringExtra(SecondActivity.RESULT);
-//                label.setText(message);
-//            }
-//        }
-//    }
-
 }
