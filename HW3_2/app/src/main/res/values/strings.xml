@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW3_2</string>
+    <string name="button1_name">Movies</string>
+    <string name="button2_name">Breville</string>
+    <string name="button3_name">Oster</string>
+    <string name="button4_name">Vremi</string>
+</resources>
