@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yacht Pricing</string>
+    <string name="default_name">Astralux</string>
+    <string name="default_cabins">3</string>
+    <string name="default_heads">2</string>
+    <string name="boat_age">Age of yacht (years):</string>
+    <string name="cabins"># of Cabins:</string>
+    <string name="boat_price">Get Price</string>
+    <string name="show_price">Price:</string>
+    <string name="underline">______________</string>
+    <string-array name="num_of_cabins">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
