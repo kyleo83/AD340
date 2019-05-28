@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW6</string>
+    <string name="waiting">Waiting ...</string>
+    <string name="listview_id"><![CDATA[ID:&#160;]]></string>
+    <string name="listview_pieces"><![CDATA[Number of pieces:&#160;]]></string>
+    <string name="not_connected">No network connection!</string>
+    <string name="no_data">No Data</string>
+</resources>
